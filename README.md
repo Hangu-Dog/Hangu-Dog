@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hangu-Dog
-June 2021 I started learning Python from scratch.
+June 2021 I started learning Python from scratch.\n
 2021年6月 Pythonを０から学び始めました。
 
 
