@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Hangu-Dog
+- はんぐぅ『python幼稚園つくし組』イヌの顔
+
 June 2021 I started learning Python from scratch.
 
 2021年6月 Pythonを０から学び始めました。
